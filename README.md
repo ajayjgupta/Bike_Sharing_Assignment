@@ -15,14 +15,10 @@
 
 - Data Cleaning
 - Data Manipulation
-- Univariate Analysis
-- Segmented Univariate
-- Bivariate Analysis
 - Data Visualization
 - Model Building
 - Fine tuning Model
 - Summary of the all the analysis
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - A US bike-sharing provider BoomBikes can focus more on Temperature
@@ -31,17 +27,15 @@
 - We can see spring season has negative coefficients and negatively correlated to bike rentals. So we can give some offers there to increase the demand
 - Now seeing to weathersit variable, we have got negative coefficients for Mist +cloudy and Lightsnow weather... And yes we can give offers
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python 
 - Pandas
 - Matplotlib
 - Seaborn
+- sklearn
+- statsmodels
 - Jupyter Notebook
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
 Created by [@ajayjgupta] - feel free to contact me!
